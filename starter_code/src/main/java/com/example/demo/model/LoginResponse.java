@@ -8,5 +8,5 @@ public class LoginResponse {
     private String token;
     private String errorMessage;
     private String message;
-    private User user;
+    private String tokenType = "Bearer";
 }
