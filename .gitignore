@@ -1,0 +1,21 @@
+.idea/
+/starter_code/target/
+*.iws
+*.iml
+*.ipr
+/target/
+# Log file
+*.log
+classpath
+.project
+.settings
+bin
+build
+target
+dependency-reduced-pom.xml
+*.sublime-*
+/scratch
+.gradle
+README.html
+.idea
+.exercism
