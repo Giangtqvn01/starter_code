@@ -19,3 +19,4 @@ dependency-reduced-pom.xml
 README.html
 .idea
 .exercism
+/logs
